@@ -612,5 +612,5 @@ typedef NS_ENUM(NSInteger, DYYYSettingItemType) {
     
     [self.tableView reloadSections:[NSIndexSet indexSetWithIndex:sender.tag] withRowAnimation:UITableViewRowAnimationFade];
 }
- 
+
 @end
